@@ -43,6 +43,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "02ea",
+      "name": "Lucas do Nascimento Cardoso Rodrigues",
+      "budget": "6000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
