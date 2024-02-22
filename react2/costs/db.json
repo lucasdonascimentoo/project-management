@@ -54,6 +54,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "6f0d",
+      "name": "new project",
+      "budget": "500",
+      "category": {
+        "id": "1",
+        "name": "Infrastructure"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
