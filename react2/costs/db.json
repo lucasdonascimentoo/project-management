@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "d6b3",
-      "name": "test2",
-      "budget": "900",
+      "name": "uptade project",
+      "budget": "4000",
       "category": {
-        "id": "4",
-        "name": "Planning"
+        "id": "2",
+        "name": "Development"
       },
       "cost": 0,
       "services": []
