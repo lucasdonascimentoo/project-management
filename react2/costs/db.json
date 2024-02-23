@@ -10,6 +10,28 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "0cc4",
+      "name": "test",
+      "budget": "1100",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "cc8d",
+      "name": "test4",
+      "budget": "1999",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
