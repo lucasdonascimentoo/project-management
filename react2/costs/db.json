@@ -1,67 +1,12 @@
 {
   "projects": [
     {
-      "id": "e2e3",
-      "name": "Projeto teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Development"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "8061",
-      "name": "projeto test2",
-      "budget": "30000",
-      "category": {
-        "id": "1",
-        "name": "Infrastructure"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "7371",
-      "name": "project 3",
-      "budget": "1000",
+      "id": "d6b3",
+      "name": "test2",
+      "budget": "900",
       "category": {
         "id": "4",
         "name": "Planning"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "cbe7",
-      "name": "lucas",
-      "budget": "44444",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "02ea",
-      "name": "Lucas do Nascimento Cardoso Rodrigues",
-      "budget": "6000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "6f0d",
-      "name": "new project",
-      "budget": "500",
-      "category": {
-        "id": "1",
-        "name": "Infrastructure"
       },
       "cost": 0,
       "services": []
