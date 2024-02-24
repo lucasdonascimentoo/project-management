@@ -8,8 +8,33 @@
         "id": "2",
         "name": "Development"
       },
-      "cost": 0,
-      "services": []
+      "cost": 405,
+      "services": [
+        {
+          "name": "my new service",
+          "cost": "100",
+          "description": "do it",
+          "id": "62acfeef-da44-4857-83a0-ee5a2d92ebf1"
+        },
+        {
+          "name": "my new service",
+          "cost": "105",
+          "description": "do it",
+          "id": "bfd30b88-32ca-4e3b-b8b6-171259a75cdf"
+        },
+        {
+          "name": "new service",
+          "description": "do it",
+          "cost": "100",
+          "id": "aa50b896-749e-4e7b-82fe-ab34e98e158c"
+        },
+        {
+          "name": "new service",
+          "description": "do it",
+          "cost": "100",
+          "id": "aa50b896-749e-4e7b-82fe-ab34e98e158c"
+        }
+      ]
     },
     {
       "id": "0cc4",
