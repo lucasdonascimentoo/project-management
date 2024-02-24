@@ -8,31 +8,19 @@
         "id": "2",
         "name": "Development"
       },
-      "cost": 405,
+      "cost": 99,
       "services": [
         {
-          "name": "my new service",
-          "cost": "100",
+          "name": "service 1",
+          "cost": "199",
           "description": "do it",
-          "id": "62acfeef-da44-4857-83a0-ee5a2d92ebf1"
+          "id": "cc9986ae-fb5e-4045-8f14-3c16e872f074"
         },
         {
-          "name": "my new service",
-          "cost": "105",
-          "description": "do it",
-          "id": "bfd30b88-32ca-4e3b-b8b6-171259a75cdf"
-        },
-        {
-          "name": "new service",
-          "description": "do it",
+          "name": "service 2 ",
           "cost": "100",
-          "id": "aa50b896-749e-4e7b-82fe-ab34e98e158c"
-        },
-        {
-          "name": "new service",
           "description": "do it",
-          "cost": "100",
-          "id": "aa50b896-749e-4e7b-82fe-ab34e98e158c"
+          "id": "cfc564fe-511a-470d-8bb1-2847de6b1e69"
         }
       ]
     },
@@ -44,8 +32,21 @@
         "id": "4",
         "name": "Planning"
       },
-      "cost": 0,
-      "services": []
+      "cost": 600,
+      "services": [
+        {
+          "name": "service 1",
+          "cost": "300",
+          "description": "do it",
+          "id": "3685d3e2-7669-4e00-8be8-a421d81d1d07"
+        },
+        {
+          "name": "service 2",
+          "cost": "300",
+          "description": "do it",
+          "id": "9d989b3f-d222-483e-b509-b993c513c17b"
+        }
+      ]
     },
     {
       "id": "cc8d",
