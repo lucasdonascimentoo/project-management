@@ -8,21 +8,8 @@
         "id": "2",
         "name": "Development"
       },
-      "cost": 99,
-      "services": [
-        {
-          "name": "service 1",
-          "cost": "199",
-          "description": "do it",
-          "id": "cc9986ae-fb5e-4045-8f14-3c16e872f074"
-        },
-        {
-          "name": "service 2 ",
-          "cost": "100",
-          "description": "do it",
-          "id": "cfc564fe-511a-470d-8bb1-2847de6b1e69"
-        }
-      ]
+      "cost": -200,
+      "services": []
     },
     {
       "id": "0cc4",
